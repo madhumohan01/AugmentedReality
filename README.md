@@ -48,9 +48,9 @@ These can be validated by running PerfTest.py
 
 Results and Improvements
 ========================
-![Demo1](/Demo1.gif)
+![Demo1](/img/Demo1.gif)
 
-![Demo2](/Demo2.gif)
+![Demo2](/img/Demo2.gif)
 
 There were some cases where the process was not performing well. The following are the improvement areas that I could think of: 
 
